@@ -1,0 +1,1 @@
+print(float.fromhex("0.01"))
